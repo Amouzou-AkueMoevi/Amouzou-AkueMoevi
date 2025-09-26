@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Amouzou-AkueMoevi
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- I am Trader and Data Scientist
+- 👀 I’m interested here in data science projects
+- 🌱 I’m currently working on data science projects
 - 💞️ I’m looking to collaborate on projects 
-- 📫 Reach me on m.moevi@gmail.com
+- 📫 Reach me out on m.moevi@gmail.com
 
 <!---
 Amouzou-AkueMoevi/Amouzou-AkueMoevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
